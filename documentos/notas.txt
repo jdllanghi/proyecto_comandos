@@ -1,0 +1,5 @@
+Empezando a utilizar comandos linux
+Permite la multi tarea y soporta multiples usuarios al mismo tiempo
+Ofrece alta seguridad, estabilidad y bajo consumo de recursos 
+
+
